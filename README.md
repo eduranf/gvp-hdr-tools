@@ -8,7 +8,7 @@ These systems are defined in ITU-R BT.2100, which is based on BT.2390
 
 PQ is a display-referred system,so it's defined by its EOTF. PQ OETF
 is defined by the concatenation of the OOTF and its inverse EOTF.
-![alt text](http://www.text-image.com/samples/text-face.gif )
+![alt text](pq_luma_system.png )
  
            
 
